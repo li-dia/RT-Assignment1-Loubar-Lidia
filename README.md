@@ -108,7 +108,8 @@ Loop indefinitely:
 ## Flowchart:
 The flowchart visually represents the sequential steps the robot takes to assemble the boxes. It illustrates the decision-making process, token detection, and the loop that guides the robot through capturing and assembling components.
 
-![image](https://github.com/li-dia/RT-Assignment1-Loubar-Lidia/assets/118188149/eedee2f9-cb9b-46bf-b715-287139185099)
+![image](https://github.com/li-dia/RT-Assignment1-Loubar-Lidia/assets/118188149/b7a4e5c8-2ec7-4533-a658-baa15f1e1a47)
+
 
 ## Getting Started:
 
