@@ -67,6 +67,7 @@ function go_to_reference(code_list):
             Turn the robot to the left
         Else if rot_y > a_th:
             Print "Right a bit... Moving towards the reference."
+            Turn the robot to the right
 
 # Main loop
 Initialize CapturedTokenList to an empty list
@@ -87,7 +88,7 @@ Loop indefinitely:
             Release the grabbed object
             Drive backward
             Append token_code to CapturedTokenList
-            If length of CapturedTokenList is 6:
+            If the length of CapturedTokenList is 6:
                 Print "All boxes are put together!"
                 Turn the robot to the right
                 Drive backward
